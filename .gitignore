@@ -104,3 +104,11 @@ tests/windows
 #output dir
 bin
 bin-int
+
+#vs and vsc env
+.vs
+.vscode
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
